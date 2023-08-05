@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+input[type=text],[type=number] {
+    width: 300px;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=button]{
+    width: 100px;   
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+#sec1{
+    background: linear-gradient(rgb(147, 147, 226),rgb(137, 137, 188));
+    border: 1px solid black;
+    border-radius: 20px;
+}
